@@ -1,7 +1,7 @@
 # CV Arturo Tanzi
 # 👋 Ciao, sono Arturo Tanzi
 
-🎯 **Studente**  
+🎯 **Professione**  
 Sono un ex studente universitario, adesso studio presso Aulab Hackademy.
 
 ---
